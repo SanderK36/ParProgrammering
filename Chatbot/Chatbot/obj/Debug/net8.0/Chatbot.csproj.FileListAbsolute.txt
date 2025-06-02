@@ -1,0 +1,15 @@
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\bin\Debug\net8.0\Chatbot.exe
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\bin\Debug\net8.0\Chatbot.deps.json
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\bin\Debug\net8.0\Chatbot.runtimeconfig.json
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\bin\Debug\net8.0\Chatbot.dll
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\bin\Debug\net8.0\Chatbot.pdb
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.AssemblyInfoInputs.cache
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.AssemblyInfo.cs
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.sourcelink.json
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.dll
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\obj\Debug\net8.0\refint\Chatbot.dll
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.pdb
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.genruntimeconfig.cache
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\Chatbot\Chatbot\obj\Debug\net8.0\ref\Chatbot.dll

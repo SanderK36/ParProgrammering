@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\ParProg\\Chatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C913FED9-2D31-4DD4-B7BD-82F57601B3D9}|Chatbot\\Chatbot.csproj|c:\\users\\sande\\desktop\\get academy\\get\\c sharp\\parprog\\chatbot\\chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C913FED9-2D31-4DD4-B7BD-82F57601B3D9}|Chatbot\\Chatbot.csproj|solutionrelative:chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C913FED9-2D31-4DD4-B7BD-82F57601B3D9}|Chatbot\\Chatbot.csproj|c:\\users\\sande\\desktop\\get academy\\get\\c sharp\\parprog\\chatbot\\chatbot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C913FED9-2D31-4DD4-B7BD-82F57601B3D9}|Chatbot\\Chatbot.csproj|solutionrelative:chatbot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chatbot.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\ParProg\\Chatbot\\Chatbot\\Chatbot.cs",
+              "RelativeDocumentMoniker": "Chatbot\\Chatbot.cs",
+              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\ParProg\\Chatbot\\Chatbot\\Chatbot.cs",
+              "RelativeToolTip": "Chatbot\\Chatbot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:39:58.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\ParProg\\Chatbot\\Chatbot\\Program.cs",
+              "RelativeDocumentMoniker": "Chatbot\\Program.cs",
+              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\ParProg\\Chatbot\\Chatbot\\Program.cs",
+              "RelativeToolTip": "Chatbot\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:32:17.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
