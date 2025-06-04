@@ -1,0 +1,15 @@
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.exe
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.deps.json
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.runtimeconfig.json
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.dll
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.pdb
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.sourcelink.json
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.dll
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.pdb
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
+C:\Users\sande\Desktop\GET Academy\GET\C Sharp\ParProg\ToDoList\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll
