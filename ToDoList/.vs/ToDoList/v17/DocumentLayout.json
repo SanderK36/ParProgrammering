@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\ParProg\\ToDoList\\",
+  "WorkspaceRootPath": "C:\\Users\\sande\\Desktop\\GET Academy\\ParProgrammering\\ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA7EAAEB-FE8B-472C-8ADB-E809AF5C5081}|ToDoList\\ToDoList.csproj|c:\\users\\sande\\desktop\\get academy\\get\\c sharp\\parprog\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA7EAAEB-FE8B-472C-8ADB-E809AF5C5081}|ToDoList\\ToDoList.csproj|c:\\users\\sande\\desktop\\get academy\\parprogrammering\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA7EAAEB-FE8B-472C-8ADB-E809AF5C5081}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7EAAEB-FE8B-472C-8ADB-E809AF5C5081}|ToDoList\\ToDoList.csproj|c:\\users\\sande\\desktop\\get academy\\get\\c sharp\\parprog\\todolist\\todolist\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA7EAAEB-FE8B-472C-8ADB-E809AF5C5081}|ToDoList\\ToDoList.csproj|c:\\users\\sande\\desktop\\get academy\\parprogrammering\\todolist\\todolist\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA7EAAEB-FE8B-472C-8ADB-E809AF5C5081}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\ParProg\\ToDoList\\ToDoList\\Task.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\ParProgrammering\\ToDoList\\ToDoList\\Task.cs",
               "RelativeDocumentMoniker": "ToDoList\\Task.cs",
-              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\ParProg\\ToDoList\\ToDoList\\Task.cs",
+              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\ParProgrammering\\ToDoList\\ToDoList\\Task.cs",
               "RelativeToolTip": "ToDoList\\Task.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,11 +49,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\ParProg\\ToDoList\\ToDoList\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\ParProgrammering\\ToDoList\\ToDoList\\Program.cs",
               "RelativeDocumentMoniker": "ToDoList\\Program.cs",
-              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\ParProg\\ToDoList\\ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\ParProgrammering\\ToDoList\\ToDoList\\Program.cs",
               "RelativeToolTip": "ToDoList\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T10:37:00.008Z",
               "EditorCaption": ""
